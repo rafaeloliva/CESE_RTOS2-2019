@@ -1,0 +1,11 @@
+Notas:
+Grupo 1 - RTOS 2 / Julian B., Jacobo S., Gustavo P., Rafael O.
+
+- Primera reunion 15/05/19 - determinamos camino, distrib. de tareas
+- Segunda reunion 21/05/19 - trabajamos clonando la version mas adelantada de Julian, incorporamos los tasks mayusc, minusc e investigar heap y stack
+- 23 05 - ensayos clonJB2305 con terminal
+- 24 05 - ensayos mods2405 primera vinculacion script Moretti
+          en /ensayos resultados primer ensayo mods2405 con python script
+          en /doc documentos diseño
+          en /doc/bibl PDFs de bibliografia presentacion 3 y otros
+

@@ -1,0 +1,1 @@
+python3 enviar_texto.py prueba2.txt /dev/ttyUSB1 1
